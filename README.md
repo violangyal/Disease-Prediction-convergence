@@ -1,6 +1,6 @@
 # Disease Prediction Using ML
 
-** This is a project we developed for the hackathon at the Convergence event. Our goal was to create a machine learning model that can predict diseases based on symptoms and other relevant information. We used a dataset from Kaggle and tried out various algorithms to determine which one had the best accuracy. Our results showed that K-Nearest Neighbors (KNN) had the best accuracy, so we chose to use that for our model.**
+###### This is a project we developed for the hackathon at the Convergence event. Our goal was to create a machine learning model that can predict diseases based on symptoms and other relevant information. We used a dataset from Kaggle and tried out various algorithms to determine which one had the best accuracy. Our results showed that K-Nearest Neighbors (KNN) had the best accuracy, so we chose to use that for our model.
 
 ### Live-Link - https://userfound404-disease-prediction-convergence-app-ydgrdd.streamlit.app/
 
